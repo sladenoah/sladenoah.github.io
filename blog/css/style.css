@@ -147,6 +147,10 @@ header {
     padding: 0.2rem 0rem 0.2rem 0;
 }
 
+h2 {
+    padding-top: 3rem;
+}
+
 article h3 {
     padding-top: 1rem;
 }
@@ -191,7 +195,8 @@ figure {
 .article-image {
     width: 33%;
     float: left;
-    margin-right: 0.8rem;
+    margin-right: 1rem;
+    margin-bottom: 0.2rem;
 }
 
 .subsection {
@@ -216,14 +221,14 @@ a {
 nav a {
     display: inline-block;
     padding: 2rem 4rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-family: rozha, serif;
-    color: #3B5055;
+    color: #334145;
 }
 
 nav {
-    border-top: 1px solid #212326;
-    border-bottom: 1px solid #212326;
+    border-top: 2px solid #212326;
+    border-bottom: 2px solid #212326;
 }
 
 nav a.active {
