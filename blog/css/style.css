@@ -161,6 +161,10 @@ article {
     padding-right: 2rem;
 }
 
+article p:first-of-type {
+    margin-top: 0;
+}
+
 time {
     display: block;
     margin-bottom: 3rem;
